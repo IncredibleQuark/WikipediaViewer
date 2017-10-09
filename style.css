@@ -1,0 +1,21 @@
+body {
+    height: 100%;
+    width: 100%;
+    padding-top: 40vh;
+}
+
+.btn {
+    text-decoration: none;
+}
+
+.btn:hover {
+    color: red;
+}
+
+.container {
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+}
