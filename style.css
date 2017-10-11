@@ -6,10 +6,12 @@ body {
 
 .btn {
     text-decoration: none;
+    padding-bottom: 2em;
 }
 
 .btn:hover {
-    color: red;
+    color: darkblue;
+
 }
 
 .container {
