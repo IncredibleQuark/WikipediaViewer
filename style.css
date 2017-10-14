@@ -11,7 +11,6 @@ body {
 
 .btn:hover {
     color: darkblue;
-
 }
 
 .container {
@@ -27,11 +26,21 @@ body {
     list-style-type: none;
     padding: 0;
     width: 100px;
+    background: white;
 }
 
 .ui-menu-item:hover {
     color: green;
 }
+
 .ui-helper-hidden-accessible {
     display: none;
 }
+
+.results {
+    border: 1px solid black;
+    width: 500px;
+    height: 500px;
+    list-style-type: none;
+}
+
